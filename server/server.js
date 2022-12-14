@@ -11,7 +11,7 @@ app.get('/', (req,res) => {
 
 })
 
-app.listen(4004, () =>console.log(`cruising on 4004`))
+app.listen(4004, () => console.log(`cruising on 4004`))
 
 
 
